@@ -2141,3 +2141,138 @@ Cancel: Abort the operation.
 [2021.05.28-16.18.03:512][114]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.28-16.18.03:512][114]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Barcelona_PostApocalyptic_BuiltData.Barcelona_PostApocalyptic_BuiltData
 [2021.05.28-16.18.03:512][114]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Barcelona_PostApocalyptic.Barcelona_PostApocalyptic
+[2021.05.28-16.20.38:015][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.05.28-16.20.39:803][885]LogSlate: Window 'Save Content' being destroyed
+[2021.05.28-16.20.39:855][885]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/burnedpolice_Object0047148E42A43D9A40173784DBA3662D441.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Megascans/3D_Assets/Policew/burnedpolice_Object004.uasset'
+[2021.05.28-16.20.39:884][885]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/burnedpolice_Object0050EA8287B4C68FE9E552CF5B19C7FFF66.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Megascans/3D_Assets/Policew/burnedpolice_Object005.uasset'
+[2021.05.28-16.20.40:143][885]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Material__96_Base_ColorC3378CC8422C1A7C74B9CBAD977798D3.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Megascans/3D_Assets/Policew/Material__96_Base_Color.uasset'
+[2021.05.28-16.20.40:413][885]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Material__96_Base_Color1B4450DFD44B1B84596E85CAAF78E66A0.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Megascans/3D_Assets/Policew/Material__96_Base_Color1.uasset'
+[2021.05.28-16.20.40:464][885]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Material__96_MetallicC75AC4494D2A407475B745B8FD180542.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Megascans/3D_Assets/Policew/Material__96_Metallic.uasset'
+[2021.05.28-16.20.40:512][885]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Material__96_Mixed_AO43C2C06F42FDBA3F70B25CB13FB7CDBD.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Megascans/3D_Assets/Policew/Material__96_Mixed_AO.uasset'
+[2021.05.28-16.20.40:586][885]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Material__96_Normal_OpenGLF09E4E6747E1725FF306FEA790D95D52.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Megascans/3D_Assets/Policew/Material__96_Normal_OpenGL.uasset'
+[2021.05.28-16.20.40:614][885]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Material__96_RoughnessDAEAFFA845853882567073B6B9B6B4B8.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Megascans/3D_Assets/Policew/Material__96_Roughness.uasset'
+[2021.05.28-16.20.40:746][885]LogSlate: Window 'BCN_Apocalypse - Unreal Editor' being destroyed
+[2021.05.28-16.20.40:992][885]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.28-16.20.40:992][885]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Policew/Material__96_Roughness.Material__96_Roughness
+[2021.05.28-16.20.40:992][885]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Policew/Material__96_Normal_OpenGL.Material__96_Normal_OpenGL
+[2021.05.28-16.20.40:992][885]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Policew/Material__96_Mixed_AO.Material__96_Mixed_AO
+[2021.05.28-16.20.40:992][885]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Policew/Material__96_Metallic.Material__96_Metallic
+[2021.05.28-16.20.40:992][885]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Policew/Material__96_Base_Color.Material__96_Base_Color
+[2021.05.28-16.20.40:992][885]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Policew/burnedpolice_Object005.burnedpolice_Object005
+[2021.05.28-16.20.40:992][885]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Policew/Material__96_Base_Color1.Material__96_Base_Color1
+[2021.05.28-16.20.40:992][885]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Policew/burnedpolice_Object004.burnedpolice_Object004
+[2021.05.28-16.20.40:994][886]Cmd: QUIT_EDITOR
+[2021.05.28-16.20.40:994][886]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.05.28-16.20.41:045][886]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.05.28-16.20.41:571][886]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.05.28-16.20.41:571][886]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.05.28-16.20.41:571][886]LogAudio: Display: Audio Device unregistered from world 'Barcelona_PostApocalyptic'.
+[2021.05.28-16.20.41:571][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-16.20.41:572][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-16.20.41:603][886]LogAudio: Display: Audio Device Manager Shutdown
+[2021.05.28-16.20.41:604][886]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.28-16.20.41:615][886]LogExit: Preparing to exit.
+[2021.05.28-16.20.41:639][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134E3100] Windows
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134E2E00] Default__DeviceProfile
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F1100] WindowsNoEditor
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134E1100] WindowsServer
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F2C00] WindowsClient
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134E2B00] IOS
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F1700] iPadAir
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134E1700] iPadAir2
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349C900] IPadPro
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349CA00] iPadAir3
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134E0F00] iPadAir4
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349F200] iPadMini2
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134E0E00] iPadMini3
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349CB00] iPadMini4
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134E2D00] iPadMini5
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F0E00] iPhone6
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349BF00] iPodTouch6
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F3300] iPhone7
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349F400] iPodTouch7
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B713499400] iPhone5S
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349CC00] iPhone6Plus
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349BC00] iPhone6S
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349F700] iPhone6SPlus
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349AF00] iPhone7Plus
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349D200] iPhoneSE
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349A700] iPhone8
+[2021.05.28-16.20.42:546][886]LogDeviceProfile: Device profile begin destroy: [000002B71349F000] iPhone8Plus
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713499600] iPhoneX
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349ED00] iPhoneXS
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349A400] iPhoneXSMax
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349EA00] iPhoneXR
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713499B00] iPhone11
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349E000] iPhone11Pro
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349A200] iPhone11ProMax
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349DD00] iPhoneSE2
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349A000] iPhone12Mini
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349DE00] iPhone12
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713499300] iPhone12Pro
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349D600] iPhone12ProMax
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349A500] iPadPro105
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349D800] iPadPro129
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349A100] iPadPro97
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349F800] iPadPro2_129
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349B000] iPad5
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349FD00] iPad6
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713498500] iPad7
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349EC00] iPad8
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349B300] iPadPro11
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349C500] iPadPro2_11
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713499500] iPadPro3_129
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349E400] iPadPro4_129
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349B700] AppleTV
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349C200] AppleTV4K
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349A300] TVOS
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349E100] Mac
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349AA00] MacClient
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349C400] MacNoEditor
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713499E00] MacServer
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713499D00] Linux
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F1400] LinuxNoEditor
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713498200] LinuxAArch64NoEditor
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F2F00] LinuxClient
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713680A00] LinuxAArch64Client
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F2000] LinuxServer
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713680400] LinuxAArch64Server
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F3A00] Android
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B713681400] Android_Low
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F0F00] Android_Mid
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349D900] Android_High
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F2800] Android_Default
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349FC00] Android_Adreno4xx
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F1800] Android_Adreno5xx_Low
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349F100] Android_Adreno5xx
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F0800] Android_Adreno6xx
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349DA00] Android_Adreno6xx_Vulkan
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F2200] Android_Mali_T6xx
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349C600] Android_Mali_T7xx
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F3C00] Android_Mali_T8xx
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349CE00] Android_Mali_G71
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F2100] Android_Mali_G72
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349E500] Android_Mali_G72_Vulkan
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F2900] Android_Mali_G76
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349EB00] Android_Mali_G76_Vulkan
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F3000] Android_Mali_G77
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349D000] Android_Mali_G77_Vulkan
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F2600] Android_Vulkan_SM5
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349D500] Android_PowerVR_G6xxx
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F1D00] Android_PowerVR_GT7xxx
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349DC00] Android_PowerVR_GE8xxx
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F3800] Android_PowerVR_GM9xxx
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349E300] Android_PowerVR_GM9xxx_Vulkan
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F3D00] Android_TegraK1
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349FB00] Android_Unknown_Vulkan
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F0900] Lumin
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B71349DB00] Lumin_Desktop
+[2021.05.28-16.20.42:547][886]LogDeviceProfile: Device profile begin destroy: [000002B7134F1B00] HoloLens
+[2021.05.28-16.20.42:981][886]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-16.20.42:982][886]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-16.20.43:175][886]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.05.28-16.20.43:411][886]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-16.20.43:496][886]LogExit: Editor shut down
+[2021.05.28-16.20.43:497][886]LogExit: Transaction tracking system shut down
+[2021.05.28-16.20.45:726][886]LogExit: Object subsystem successfully closed.
