@@ -1,0 +1,1255 @@
+﻿Log file open, 06/21/21 01:20:31
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: BCN_Apocalypse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.177713
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.20-23.20.34:425][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.20-23.20.34:425][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.20-23.20.34:425][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Engine.ini]
+[2021.06.20-23.20.34:425][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.20-23.20.34:425][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.06.20-23.20.34:425][  0]LogConfig: Setting CVar [[r.EarlyZPass:2]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Engine.ini]
+[2021.06.20-23.20.34:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Engine.ini]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.20-23.20.34:445][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Engine.ini]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.20-23.20.34:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Engine.ini]
+[2021.06.20-23.20.34:446][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Engine.ini]
+[2021.06.20-23.20.34:562][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.20-23.20.34:562][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.20-23.20.34:563][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.20-23.20.34:670][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.20-23.20.34:672][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.20-23.20.34:682][  0]LogHAL: Display: Platform has ~ 16 GB [17110896640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.20-23.20.34:682][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.20-23.20.34:683][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Scalability.ini]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.20-23.20.34:683][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.20-23.20.34:695][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.20-23.20.34:695][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.20-23.20.34:695][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.20-23.20.34:695][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Config/Windows/Engine.ini]
+[2021.06.20-23.20.34:725][  0]LogInit: Computer: DESKTOP-1H7MA5R
+[2021.06.20-23.20.34:725][  0]LogInit: User: Usuario
+[2021.06.20-23.20.34:725][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.06.20-23.20.34:725][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.20-23.20.34:725][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.20-23.20.34:725][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.20-23.20.34:725][  0]LogMemory: Process Physical Memory: 141.64 MB used, 141.64 MB peak
+[2021.06.20-23.20.34:725][  0]LogMemory: Process Virtual Memory: 129.75 MB used, 129.75 MB peak
+[2021.06.20-23.20.34:725][  0]LogMemory: Physical Memory: 6939.14 MB used,  9379.08 MB free, 16318.22 MB total
+[2021.06.20-23.20.34:725][  0]LogMemory: Virtual Memory: 134192144.00 MB used,  25586.22 MB free, 134217728.00 MB total
+[2021.06.20-23.20.34:747][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.20-23.20.35:394][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.20-23.20.35:492][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.06.20-23.20.35:492][  0]LogInit: Using OS detected locale (es-ES).
+[2021.06.20-23.20.36:275][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.20-23.20.37:337][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.20-23.20.38:299][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.20-23.20.38:299][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.20-23.20.39:063][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.20-23.20.39:063][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.20-23.20.39:063][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.20-23.20.39:063][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.20-23.20.39:190][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2021.06.20-23.20.39:190][  0]LogD3D11RHI:       8043/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.06.20-23.20.39:193][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.20-23.20.39:193][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.20-23.20.39:193][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.20-23.20.39:212][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.20-23.20.39:212][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.20-23.20.39:212][  0]LogWindows: EnumDisplayDevices:
+[2021.06.20-23.20.39:212][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2021.06.20-23.20.39:212][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2021.06.20-23.20.39:212][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.06.20-23.20.39:212][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.06.20-23.20.39:213][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.20-23.20.39:213][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2021.06.20-23.20.39:213][  0]LogD3D11RHI:   Driver Version: 466.77 (internal:27.21.14.6677, unified:466.77)
+[2021.06.20-23.20.39:213][  0]LogD3D11RHI:      Driver Date: 6-8-2021
+[2021.06.20-23.20.39:213][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2021.06.20-23.20.39:280][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.20-23.20.39:281][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.20-23.20.39:281][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.20-23.20.39:828][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.06.20-23.20.39:855][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.20-23.20.40:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.20-23.20.40:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.20-23.20.40:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.20-23.20.40:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.20-23.20.40:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.20-23.20.40:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.20-23.20.40:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.20-23.20.40:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.20-23.20.40:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.20-23.20.40:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.20-23.20.40:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.20-23.20.40:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.20-23.20.40:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.20-23.20.40:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.20-23.20.40:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.20-23.20.40:506][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.20-23.20.40:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.20-23.20.40:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.20-23.20.40:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.20-23.20.40:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.20-23.20.40:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.20-23.20.40:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.20-23.20.40:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.20-23.20.40:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.20-23.20.40:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.20-23.20.40:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.20-23.20.40:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.20-23.20.40:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.20-23.20.40:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.20-23.20.40:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.20-23.20.40:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.20-23.20.40:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.20-23.20.40:782][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.20-23.20.40:916][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.20-23.20.41:827][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.20-23.20.41:863][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Intermediate/Shaders/WorkingDirectory/16812/).
+[2021.06.20-23.20.41:863][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuario/AppData/Local/Temp/UnrealShaderWorkingDir/DE11919E4C13831419C91F9CC4330D8B/'.
+[2021.06.20-23.20.41:873][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.20-23.20.41:873][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.20-23.20.43:688][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.20-23.20.43:870][  0]LogDerivedDataCache: Loaded boot cache 0.18s 77MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.20-23.20.43:870][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Usuario/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.20-23.20.43:870][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.20-23.20.43:870][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.20-23.20.43:870][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.20-23.20.43:870][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.20-23.20.43:903][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.20-23.20.43:903][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.20-23.20.43:903][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.20-23.20.43:916][  0]LogDerivedDataCache: Speed tests for C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.06.20-23.20.43:916][  0]LogDerivedDataCache: Display: Performance to C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.17ms. RandomReadSpeed=150.69MBs, RandomWriteSpeed=208.66MBs. Assigned SpeedClass 'Local'
+[2021.06.20-23.20.43:916][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.20-23.20.43:917][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.20-23.20.43:917][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.20-23.20.44:106][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.20-23.20.44:123][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.20-23.20.44:468][  0]LogAssetRegistry: FAssetRegistry took 0.0151 seconds to start up
+[2021.06.20-23.20.56:333][  0]LogAssetRegistry: Error: Package C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Megascans/Atlases/Dirty_Manhole_Cover_uk2lehdcw/Displacement_2K_uk2lehdcw.uasset has malformed tag
+[2021.06.20-23.20.56:333][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.20-23.20.56:333][  0]LogInit: Active device profile: [000002952AD23200][0000029526E42C40 49] Windows
+[2021.06.20-23.20.56:333][  0]LogInit: Profiles: [000002952AD23200][0000029526E42C40 49] Windows, [000002952AD10F00][00000295269BADC0 49] WindowsNoEditor, [000002952AD21000][00000295269BEF40 49] WindowsServer, [000002952AD12D00][00000295269C30C0 49] WindowsClient, [000002952AD22C00][00000295269C7240 49] IOS, [000002952AD11600][00000295269CB3C0 49] iPadAir, [000002952AD21600][00000295269CF540 49] iPadAir2, [000002952ACC0A00][00000295269D9780 49] IPadPro, [000002952ACC0B00][0000029526E477C0 49] iPadAir3, [000002952AD23300][00000295269E3900 49] iPadAir4, [000002952ACC3400][00000295269EBA80 49] iPadMini2, [000002952AD23000][00000295269EFC00 49] iPadMini3, [000002952ACC3B00][00000295269F20C0 49] iPadMini4, [000002952AD20300][00000295269F6240 49] iPadMini5, [000002952AD12700][00000295269FE500 49] iPhone6, [000002952ACB3F00][00000295269FA540 49] iPodTouch6, [000002952AD11000][0000029526A06800 49] iPhone7, [000002952AD13300][0000029526A02840 49] iPodTouch7, [000002952ACB1500][0000029526A0A9C0 49] iPhone5S, [000002952AD11C00][0000029526A0EB40 49] iPhone6Plus, [000002952ACB1000][0000029526A12CC0 49] iPhone6S, [000002952AD11900][0000029526A16E40 49] iPhone6SPlus, [000002952ACB1300][0000029526A1AFC0 49] iPhone7Plus, [000002952AD11300][0000029526A1F140 49] iPhoneSE, [000002952ACB2500][0000029526A232C0 49] iPhone8, [000002952AD12200][0000029526A27440 49] iPhone8Plus, [000002952ACB1900][0000029526A2B5C0 49] iPhoneX, [000002952AD11B00][00000295269E7700 49] iPhoneXS, [000002952ACB2200][0000029526A2F840 49] iPhoneXSMax, [000002952AD12A00][0000029526A33980 49] iPhoneXR, [000002952ACB1A00][0000029526A37AC0 49] iPhone11, [000002952AD10300][000002952B271C40 49] iPhone11Pro, [000002952ACB1F00][000002952B274100 49] iPhone11ProMax, [000002952AD11100][000002952B278280 49] iPhoneSE2, [000002952ACB3C00][000002952B27C400 49] iPhone12Mini, [000002952AD13B00][000002952B280580 49] iPhone12, [000002952ACB3600][000002952B284700 49] iPhone12Pro, [000002952AD11200][000002952B288880 49] iPhone12ProMax, [000002952ACB3700][000002952B28CA00 49] iPadPro105, [000002952AD12E00][000002952B290B80 49] iPadPro129, [000002952ACB2400][000002952B294D00 49] iPadPro97, [000002952AD13C00][000002952B298E80 49] iPadPro2_129, [000002952ACB3200][000002952B29D000 49] iPad5, [000002952AD10500][000002952B2A1180 49] iPad6, [000002952ACB0700][000002952B2A5300 49] iPad7, [000002952AD13400][000002952B2A9480 49] iPad8, [000002952ACB3E00][000002952B2AD600 49] iPadPro11, [000002952AD13D00][0000029526A3B740 49] iPadPro2_11, [000002952ACB2F00][000002952B2B1880 49] iPadPro3_129, [000002952AD10900][000002952B2B59C0 49] iPadPro4_129, [000002952ACB3500][000002952B2B9B00 49] AppleTV, [000002952AD11E00][000002952B2C1C80 49] AppleTV4K, [000002952ACB2A00][000002952B2C4140 49] TVOS, [000002952AD11700][000002952B2C82C0 49] Mac, [000002952ACB0B00][000002952B2CC440 49] MacClient, [000002952AD12800][000002952B2D05C0 49] MacNoEditor, [000002952ADF8200][000002952B2D4740 49] MacServer, [000002952AD20F00][000002952B2D88C0 49] Linux, [000002952ADF8100][000002952B2DCA40 49] LinuxNoEditor, [000002952AD23A00][000002952B2E0BC0 49] LinuxAArch64NoEditor, [000002952ADF8C00][000002952B2E4D40 49] LinuxClient, [000002952AD22500][000002952B2E8EC0 49] LinuxAArch64Client, [000002952ADF8700][000002952B2ED040 49] LinuxServer, [000002952AD22000][000002952B2F11C0 49] LinuxAArch64Server, [000002952ACB2800][000002952B2F5340 49] Android, [000002952AD21900][000002952B2F94C0 49] Android_Low, [000002952ACB0900][000002952B2FD640 49] Android_Mid, [000002952AD20800][000002952B3017C0 49] Android_High, [000002952ACB2D00][000002952B2BD900 49] Android_Default, [000002952AD23F00][000002952B305A40 49] Android_Adreno4xx, [000002952ACB0200][000002952B309B80 49] Android_Adreno5xx_Low, [000002952AD21A00][000002952B311D00 49] Android_Adreno5xx, [000002952ACB1100][000002952B3141C0 49] Android_Adreno6xx, [000002952AD21100][000002952B318340 49] Android_Adreno6xx_Vulkan, [000002952ACB0600][000002952B31C4C0 49] Android_Mali_T6xx, [000002952AD21800][000002952B320640 49] Android_Mali_T7xx, [000002952ACB2600][000002952B3247C0 49] Android_Mali_T8xx, [000002952AD20500][000002952B328940 49] Android_Mali_G71, [000002952ACB1700][000002952B32CAC0 49] Android_Mali_G72, [000002952AD23100][000002952B330C40 49] Android_Mali_G72_Vulkan, [000002952ACB1D00][000002952B334DC0 49] Android_Mali_G76, [000002952AD20600][000002952B338F40 49] Android_Mali_G76_Vulkan, [000002952ACB2C00][000002952B33D0C0 49] Android_Mali_G77, [000002952AD22200][000002952B341240 49] Android_Mali_G77_Vulkan, [000002952ACB2900][000002952B3453C0 49] Android_Vulkan_SM5, [000002952AD20C00][000002952B349540 49] Android_PowerVR_G6xxx, [000002952ACB0E00][000002952B34D6C0 49] Android_PowerVR_GT7xxx, [000002952AD21200][000002952B351840 49] Android_PowerVR_GE8xxx, [000002952ACB1E00][000002952B30D980 49] Android_PowerVR_GM9xxx, [000002952AD23D00][000002952B355AC0 49] Android_PowerVR_GM9xxx_Vulkan, [000002952ACB1C00][000002952B359C00 49] Android_TegraK1, [000002952AD23700][000002952B3600C0 49] Android_Unknown_Vulkan, [000002952ACB0C00][000002952B364240 49] Lumin, [000002952AD22400][000002952B3683C0 49] Lumin_Desktop, [000002952AD10400][000002952B36C540 49] HoloLens, 
+[2021.06.20-23.20.57:079][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.20-23.20.57:079][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.20-23.20.57:079][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.20-23.20.57:079][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.20-23.20.57:079][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.20-23.20.57:322][  0]LogNetVersion: BCN_Apocalypse 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2382617751)
+[2021.06.20-23.21.02:285][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.20-23.21.02:371][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.042169 seconds
+[2021.06.20-23.21.02:384][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.06.20-23.21.02:384][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.06.20-23.21.02:385][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.20-23.21.06:897][  0]LogPython: Using Python 3.7.7
+[2021.06.20-23.21.08:060][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.20-23.21.08:084][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.20-23.21.08:822][  0]SourceControl: Source control is disabled
+[2021.06.20-23.21.08:822][  0]SourceControl: Source control is disabled
+[2021.06.20-23.21.08:848][  0]SourceControl: Source control is disabled
+[2021.06.20-23.21.08:933][  0]SourceControl: Source control is disabled
+[2021.06.20-23.21.08:951][  0]SourceControl: Source control is disabled
+[2021.06.20-23.21.09:022][  0]LogUProjectInfo: Found projects:
+[2021.06.20-23.21.09:025][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.20-23.21.09:026][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.20-23.21.10:785][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.20-23.21.10:864][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.20-23.21.10:864][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.20-23.21.11:294][  0]LogCollectionManager: Loaded 0 collections in 0.001510 seconds
+[2021.06.20-23.21.11:470][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Collections/' took 0.02s
+[2021.06.20-23.21.11:470][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Developers/Usuario/Collections/' took 0.01s
+[2021.06.20-23.21.11:470][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Collections/' took 0.01s
+[2021.06.20-23.21.11:470][  0]LogOcInput: OculusInput pre-init called
+[2021.06.20-23.21.11:507][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.20-23.21.11:507][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.20-23.21.12:689][  0]LogEngine: Initializing Engine...
+[2021.06.20-23.21.12:714][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.20-23.21.12:721][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.20-23.21.12:742][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.011 s
+[2021.06.20-23.21.12:837][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.20-23.21.13:191][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.20-23.21.13:229][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.20-23.21.13:282][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.20-23.21.13:282][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.20-23.21.13:294][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.20-23.21.13:294][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.20-23.21.13:294][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.20-23.21.13:294][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.20-23.21.13:294][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.20-23.21.13:294][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.20-23.21.13:294][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.20-23.21.13:294][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.20-23.21.13:305][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.20-23.21.13:305][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.20-23.21.13:400][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.20-23.21.13:400][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.20-23.21.13:425][  0]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2021.06.20-23.21.13:440][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.20-23.21.13:441][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.20-23.21.13:442][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.20-23.21.13:444][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.20-23.21.13:444][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.20-23.21.13:444][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.20-23.21.13:445][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.20-23.21.13:445][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.20-23.21.13:445][  0]LogInit: FAudioDevice initialized.
+[2021.06.20-23.21.13:445][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.20-23.21.13:454][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.20-23.21.13:518][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.20-23.21.13:518][  0]LogInit: Texture streaming: Enabled
+[2021.06.20-23.21.13:581][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.06.20-23.21.13:599][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.20-23.21.13:608][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.20-23.21.13:635][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.20-23.21.13:732][  0]LogInit: Transaction tracking system initialized
+[2021.06.20-23.21.13:999][  0]BlueprintLog: New page: Editor Load
+[2021.06.20-23.21.15:105][  0]LocalizationService: Localization service is disabled
+[2021.06.20-23.21.15:374][  0]TimingProfiler: Initialize
+[2021.06.20-23.21.15:388][  0]TimingProfiler: OnSessionChanged
+[2021.06.20-23.21.15:388][  0]LoadingProfiler: Initialize
+[2021.06.20-23.21.15:389][  0]LoadingProfiler: OnSessionChanged
+[2021.06.20-23.21.15:389][  0]NetworkingProfiler: Initialize
+[2021.06.20-23.21.15:390][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.20-23.21.15:390][  0]MemoryProfiler: Initialize
+[2021.06.20-23.21.15:390][  0]MemoryProfiler: OnSessionChanged
+[2021.06.20-23.21.15:793][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.20-23.21.15:793][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.20-23.21.16:543][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.20-23.21.16:543][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.20-23.21.17:102][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/' took 0.04s
+[2021.06.20-23.21.18:645][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.20-23.21.18:737][  0]SourceControl: Source control is disabled
+[2021.06.20-23.21.18:740][  0]LogUnrealEdMisc: Loading editor; pre map load, took 59.468
+[2021.06.20-23.21.18:764][  0]Cmd: MAP LOAD FILE="C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/FirstPersonBP/Maps/Barcelona_PostApocalyptic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.20-23.21.18:770][  0]LightingResults: New page: Lighting Build
+[2021.06.20-23.21.18:813][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.21.18:827][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.20-23.21.18:848][  0]MapCheck: New page: Map Check
+[2021.06.20-23.21.18:848][  0]LightingResults: New page: Lighting Build
+[2021.06.20-23.21.19:974][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.06.20-23.21.20:084][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.06.20-23.21.21:971][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.887 s
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: 
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/SoftObjectPath.cpp] [Line: 79]
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'False'! You must pass in fully qualified package names
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: Stack: 
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcd21909 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcbf8c0c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcb71669 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcb80ce9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcb7cca6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcb7cb5f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdc8354f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffce101448 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb6f338c5 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb6f5da88 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffc9447e1e UE4Editor-Kismet.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffc93f1282 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffc93edfc3 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdc862f80 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdca7177a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdca71c7b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcaaa28c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcc39195 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdca6401d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcaeb9a2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcae9f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcaeba69 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcae9f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcae9861 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdca81da9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcae676a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdca73bfe UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdca9f7f6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcc38e53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffdcc37ff0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffcdd81e7b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffcdd71b6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffcdd5af2f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffce5dcc97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffce05e2c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffce05e0d8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffce619760 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007fffce5d8774 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7288e102b UE4Editor.exe!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7288e128a UE4Editor.exe!UnknownFunction []
+[2021.06.20-23.21.21:971][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7288f52ed UE4Editor.exe!UnknownFunction []
+[2021.06.20-23.21.21:972][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7288f801a UE4Editor.exe!UnknownFunction []
+[2021.06.20-23.21.21:972][  0]LogOutputDevice: Error: [Callstack] 0x00007ff83a457034 KERNEL32.DLL!UnknownFunction []
+[2021.06.20-23.21.21:972][  0]LogOutputDevice: Error: [Callstack] 0x00007ff83ab82651 ntdll.dll!UnknownFunction []
+[2021.06.20-23.21.21:972][  0]LogOutputDevice: Error: 
+[2021.06.20-23.21.21:974][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2021.06.20-23.21.27:887][  0]LogStats:                    SendNewReport -  5.913 s
+[2021.06.20-23.21.27:887][  0]LogStats:             FDebug::EnsureFailed -  7.804 s
+[2021.06.20-23.21.28:140][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\OneDrive\Documentos\GitHub\PostApocalypticBCN\BCN_Apocalypse\Content\VehicleBP\Sedan\Sedan.uasset: [Compiler] Get Input Axis references unknown Axis 'LookRight' for  Get LookRight
+[2021.06.20-23.21.28:140][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\OneDrive\Documentos\GitHub\PostApocalypticBCN\BCN_Apocalypse\Content\VehicleBP\Sedan\Sedan.uasset: [Compiler] InputAction Event references unknown Action 'SwitchCamera' for  InputAction SwitchCamera
+[2021.06.20-23.21.28:141][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\OneDrive\Documentos\GitHub\PostApocalypticBCN\BCN_Apocalypse\Content\VehicleBP\Sedan\Sedan.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2021.06.20-23.21.28:303][  0]LogLinker: Warning: The file 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Megascans/Atlases/Dirty_Manhole_Cover_uk2lehdcw/Displacement_2K_uk2lehdcw.uasset' contains unrecognizable data, check that it is of the expected type.
+[2021.06.20-23.21.30:172][  0]LogTexture: Display: Building textures: SM_DualPanel_HospitalBellvitge_BaseColor (AutoDXT, 2048X2048)
+[2021.06.20-23.21.30:844][  0]LogStaticMesh: Building static mesh Blocks_Object059...
+[2021.06.20-23.21.30:938][  0]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/BSP/Blocks_Object059.Blocks_Object059
+[2021.06.20-23.21.30:957][  0]LogStaticMesh: Building static mesh Blocks_Object061...
+[2021.06.20-23.21.30:968][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/BSP/Blocks_Object061.Blocks_Object061
+[2021.06.20-23.21.30:970][  0]LogStaticMesh: Building static mesh Blocks_Object062...
+[2021.06.20-23.21.30:973][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/BSP/Blocks_Object062.Blocks_Object062
+[2021.06.20-23.21.30:974][  0]LogStaticMesh: Building static mesh Blocks_Object060...
+[2021.06.20-23.21.30:979][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/BSP/Blocks_Object060.Blocks_Object060
+[2021.06.20-23.21.32:467][  0]LogMaterial: Display: Missing cached shader map for material SM_DualPanel_17_-_Old_Copper__1_BaseColor_Mat1, compiling. 
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.06.20-23.21.32:738][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.06.20-23.21.32:837][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Barcelona_PostApocalyptic'.
+[2021.06.20-23.21.32:840][  0]LogAIModule: Creating AISystem for world Barcelona_PostApocalyptic
+[2021.06.20-23.21.34:259][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FirstPersonBP/Maps/Metroo) is flushing async loading
+[2021.06.20-23.21.34:259][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.06.20-23.21.36:505][  0]LogTexture: Display: Building textures: SM_DualPanel_Fondo_BaseColor (AutoDXT, 2048X2048)
+[2021.06.20-23.21.36:505][  0]LogTexture: Display: Building textures: SM_LongPanel_Poster_BaseColor3 (AutoDXT, 2048X2048)
+[2021.06.20-23.21.36:505][  0]LogMaterial: Display: Missing cached shader map for material SM_MediumPanel_PosterMedium_BaseColor_Mat_v2, compiling. 
+[2021.06.20-23.21.36:520][  0]LogMaterial: Display: Missing cached shader map for material SM_LongPanel_Poster_BaseColor_Mat, compiling. 
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.06.20-23.21.36:529][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.06.20-23.21.36:529][  0]LogMaterial: Display: Missing cached shader map for material SM_LongPanel_Poster_BaseColor3_Mat, compiling. 
+[2021.06.20-23.21.36:541][  0]LogMaterial: Display: Missing cached shader map for material SM_DualPanel_17_-_Old_Copper__1_BaseColor_Mat, compiling. 
+[2021.06.20-23.21.37:319][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 42
+[2021.06.20-23.21.37:319][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 38
+[2021.06.20-23.21.37:319][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 55
+[2021.06.20-23.21.37:346][  0]LoadErrors: Error: /Game/Megascans/Atlases/Dirty_Manhole_Cover_uk2lehdcw/Dirty_Manhole_Cover_uk2lehdcw_inst : Failed import for Texture2D /Game/Megascans/Atlases/Dirty_Manhole_Cover_uk2lehdcw/Displacement_2K_uk2lehdcw.Displacement_2K_uk2lehdcw Referenced by export MaterialInstanceConstant /Game/Megascans/Atlases/Dirty_Manhole_Cover_uk2lehdcw/Dirty_Manhole_Cover_uk2lehdcw_inst.Dirty_Manhole_Cover_uk2lehdcw_inst
+[2021.06.20-23.21.37:553][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FirstPersonBP/Maps/Playground_) is flushing async loading
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 50
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 46
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 42
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 38
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 35
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 32
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 23
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 17
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.06.20-23.21.40:883][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.06.20-23.21.41:010][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.06.20-23.21.41:011][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FirstPersonBP/Maps/Rocafort) is flushing async loading
+[2021.06.20-23.21.41:564][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.06.20-23.21.41:564][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.06.20-23.21.41:564][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.06.20-23.21.41:564][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.06.20-23.21.41:564][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.06.20-23.21.41:564][  0]LogLinker: Warning: Asset 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/MSPresets/MSTextures/noise_mask.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.20-23.21.41:655][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FirstPersonBP/Maps/Granvia_Rift) is flushing async loading
+[2021.06.20-23.21.41:932][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FirstPersonBP/Maps/Building_) is flushing async loading
+[2021.06.20-23.21.42:222][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FirstPersonBP/Maps/2_Granvia) is flushing async loading
+[2021.06.20-23.21.42:411][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.06.20-23.21.42:717][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.06.20-23.21.42:753][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.20-23.21.42:766][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 12,915ms to complete.
+[2021.06.20-23.21.42:766][  0]LogFileHelpers: Loading map 'Barcelona_PostApocalyptic' took 24.018
+[2021.06.20-23.21.44:223][  0]LogUnrealEdMisc: Total Editor Startup Time, took 84.952
+[2021.06.20-23.21.45:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.20-23.21.45:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.20-23.21.45:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.20-23.21.45:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.20-23.21.45:551][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0070 seconds. Added 3628 classes and 872 folders.
+[2021.06.20-23.21.45:735][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.20-23.21.45:809][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.20-23.21.45:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.20-23.21.45:815][  0]LogPakFile: OnPakFileMounted2Time == 0.005469
+[2021.06.20-23.21.45:836][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.20-23.21.45:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.20-23.21.45:836][  0]LogPakFile: OnPakFileMounted2Time == 0.005473
+[2021.06.20-23.21.45:844][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.20-23.21.45:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.20-23.21.45:844][  0]LogPakFile: OnPakFileMounted2Time == 0.005477
+[2021.06.20-23.21.45:856][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.20-23.21.45:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.20-23.21.45:856][  0]LogPakFile: OnPakFileMounted2Time == 0.005481
+[2021.06.20-23.21.45:858][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.20-23.21.45:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.20-23.21.45:858][  0]LogPakFile: OnPakFileMounted2Time == 0.005484
+[2021.06.20-23.21.45:868][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.20-23.21.45:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.20-23.21.45:868][  0]LogPakFile: OnPakFileMounted2Time == 0.005488
+[2021.06.20-23.21.45:877][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.20-23.21.45:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.20-23.21.45:877][  0]LogPakFile: OnPakFileMounted2Time == 0.005493
+[2021.06.20-23.21.45:888][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.20-23.21.45:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.20-23.21.45:888][  0]LogPakFile: OnPakFileMounted2Time == 0.005496
+[2021.06.20-23.21.45:902][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.20-23.21.45:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.20-23.21.45:902][  0]LogPakFile: OnPakFileMounted2Time == 0.005500
+[2021.06.20-23.21.45:931][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.20-23.21.45:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.20-23.21.45:931][  0]LogPakFile: OnPakFileMounted2Time == 0.005503
+[2021.06.20-23.21.45:945][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.20-23.21.45:945][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:945][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.20-23.21.45:945][  0]LogPakFile: OnPakFileMounted2Time == 0.005507
+[2021.06.20-23.21.45:957][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.20-23.21.45:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.20-23.21.45:957][  0]LogPakFile: OnPakFileMounted2Time == 0.005511
+[2021.06.20-23.21.45:971][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.20-23.21.45:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.20-23.21.45:972][  0]LogPakFile: OnPakFileMounted2Time == 0.005515
+[2021.06.20-23.21.45:980][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.20-23.21.45:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.20-23.21.45:980][  0]LogPakFile: OnPakFileMounted2Time == 0.005519
+[2021.06.20-23.21.45:994][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.20-23.21.45:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.45:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.20-23.21.45:994][  0]LogPakFile: OnPakFileMounted2Time == 0.005523
+[2021.06.20-23.21.46:006][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.20-23.21.46:006][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:006][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.20-23.21.46:006][  0]LogPakFile: OnPakFileMounted2Time == 0.005528
+[2021.06.20-23.21.46:011][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.20-23.21.46:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.20-23.21.46:011][  0]LogPakFile: OnPakFileMounted2Time == 0.005531
+[2021.06.20-23.21.46:029][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.20-23.21.46:029][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:029][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.20-23.21.46:029][  0]LogPakFile: OnPakFileMounted2Time == 0.005535
+[2021.06.20-23.21.46:031][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.20-23.21.46:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.20-23.21.46:031][  0]LogPakFile: OnPakFileMounted2Time == 0.005536
+[2021.06.20-23.21.46:033][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.20-23.21.46:033][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:033][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.20-23.21.46:033][  0]LogPakFile: OnPakFileMounted2Time == 0.005537
+[2021.06.20-23.21.46:034][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.20-23.21.46:034][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:034][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.20-23.21.46:034][  0]LogPakFile: OnPakFileMounted2Time == 0.005538
+[2021.06.20-23.21.46:044][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.20-23.21.46:044][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:044][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.20-23.21.46:044][  0]LogPakFile: OnPakFileMounted2Time == 0.005540
+[2021.06.20-23.21.46:056][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.20-23.21.46:056][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:056][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.20-23.21.46:056][  0]LogPakFile: OnPakFileMounted2Time == 0.005542
+[2021.06.20-23.21.46:068][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.20-23.21.46:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.20-23.21.46:068][  0]LogPakFile: OnPakFileMounted2Time == 0.005545
+[2021.06.20-23.21.46:082][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.20-23.21.46:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.20-23.21.46:082][  0]LogPakFile: OnPakFileMounted2Time == 0.005548
+[2021.06.20-23.21.46:098][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.20-23.21.46:098][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.20-23.21.46:098][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.20-23.21.46:098][  0]LogPakFile: OnPakFileMounted2Time == 0.005551
+[2021.06.20-23.21.47:032][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.20-23.21.47:106][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.06.20-23.21.47:255][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0009 seconds. Added 2 classes and 3 folders.
+[2021.06.20-23.21.48:803][  0]LogSlate: Took 0.010040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.20-23.21.48:829][  0]LogSlate: Took 0.012833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.20-23.21.49:356][  0]LogRenderer: Reallocating scene render targets to support 1228x676 Format 10 NumSamples 1 (Frame:1).
+[2021.06.20-23.21.50:254][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.20-23.21.50:254][  0]LogLoad: (Engine Initialization) Total time: 90.98 seconds
+[2021.06.20-23.21.50:254][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.20-23.21.50:261][  0]LogInit: First time updating LLM stats...
+[2021.06.20-23.21.51:360][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.20-23.21.51:464][  0]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.20-23.21.51:481][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.20-23.21.51:481][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.20-23.21.51:609][  0]LogSlate: Took 0.014754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.20-23.21.51:843][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/' took 1.37s
+[2021.06.20-23.21.51:902][  1]LogAssetRegistry: Asset discovery search completed in 67.4384 seconds
+[2021.06.20-23.21.51:930][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.003055 seconds (updated 0 objects)
+[2021.06.20-23.21.57:888][ 19]LogSlate: Window 'Message Log' being destroyed
+[2021.06.20-23.21.57:899][ 19]LogSlate: Window 'Message Log' being destroyed
+[2021.06.20-23.24.44:021][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DualPanel_Plane001)
+[2021.06.20-23.24.44:557][178]LogSlate: Took 0.015385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.20-23.24.48:382][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DualPanel_Plane001)
+[2021.06.20-23.24.49:937][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DualPanel_Plane001)
+[2021.06.20-23.24.51:679][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Massive_Nordic_Coastal_Cliff_LOD0_venrdcgga43)
+[2021.06.20-23.24.53:757][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DualPanel_Plane001)
+[2021.06.20-23.24.55:534][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DualPanel_Plane001)
+[2021.06.20-23.25.04:850][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DualPanel_Plane001)
+[2021.06.20-23.25.08:926][906]Cmd: TRANSACTION UNDO
+[2021.06.20-23.25.08:927][906]LogEditorTransaction: Undo Move Actors
+[2021.06.20-23.25.09:124][906]LogSlate: Took 0.011997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.20-23.25.11:430][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DualPanel_Plane2)
+[2021.06.20-23.25.12:756][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DualPanel_Plane001)
+[2021.06.20-23.25.24:324][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DualPanel_Plane001)
+[2021.06.20-23.26.53:155][ 91]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (MetroFloor_39)
+[2021.06.20-23.26.54:791][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.20-23.26.54:857][163]PIE: New page: PIE session: Barcelona_PostApocalyptic (21 jun. 2021 3:26:54)
+[2021.06.20-23.26.54:934][163]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.20-23.26.54:939][163]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.20-23.26.54:942][163]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Barcelona_PostApocalyptic
+[2021.06.20-23.26.55:912][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.968736s)
+[2021.06.20-23.26.55:928][163]LogAIModule: Creating AISystem for world Barcelona_PostApocalyptic
+[2021.06.20-23.26.55:939][163]LogPlayLevel: PIE: World Init took: (0.026541s)
+[2021.06.20-23.26.55:941][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Barcelona_PostApocalyptic.Barcelona_PostApocalyptic to /Game/FirstPersonBP/Maps/UEDPIE_0_Barcelona_PostApocalyptic.Barcelona_PostApocalyptic (0.997673s)
+[2021.06.20-23.26.56:000][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.06.20-23.26.56:006][163]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.20-23.26.56:006][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.20-23.26.56:006][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.20-23.26.56:006][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.20-23.26.56:006][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.20-23.26.56:006][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.20-23.26.56:006][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.20-23.26.56:006][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.20-23.26.56:006][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.20-23.26.56:006][163]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.20-23.26.56:006][163]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.20-23.26.56:010][163]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.20-23.26.56:010][163]LogAudioMixer: Display: 1: FrontRight
+[2021.06.20-23.26.56:019][163]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2021.06.20-23.26.56:019][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.20-23.26.56:019][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.20-23.26.56:019][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.20-23.26.56:020][163]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.20-23.26.56:020][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.20-23.26.56:020][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.20-23.26.56:033][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.20-23.26.56:033][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.20-23.26.56:033][163]LogInit: FAudioDevice initialized.
+[2021.06.20-23.26.56:033][163]LogAudio: Display: Audio Device (ID: 2) registered with world 'Barcelona_PostApocalyptic'.
+[2021.06.20-23.26.56:063][163]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.20-23.26.56:625][163]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Barcelona_PostApocalyptic.Barcelona_PostApocalyptic up for play (max tick rate 0) at 2021.06.21-01.26.56
+[2021.06.20-23.26.56:701][163]LogWorld: Bringing up level for play took: 0.192199
+[2021.06.20-23.26.56:702][163]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.06.20-23.26.56:820][163]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.06.20-23.26.57:068][163]PIE: Server logged in
+[2021.06.20-23.26.57:070][163]PIE: Play in editor total start time 2,326 seconds.
+[2021.06.20-23.27.02:848][358]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2021.06.20-23.27.39:739][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.20-23.27.39:739][887]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Barcelona_PostApocalyptic
+[2021.06.20-23.27.39:781][887]LogWorld: UWorld::CleanupWorld for Barcelona_PostApocalyptic, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.27.39:817][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.20-23.27.39:885][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.20-23.27.39:913][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.20-23.27.39:958][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.20-23.27.39:993][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.20-23.27.39:994][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.20-23.27.40:046][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.20-23.27.40:152][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.06.20-23.27.40:228][888]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.06.20-23.27.40:239][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.20-23.28.07:296][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.06.20-23.28.09:854][245]LogSlate: Window 'Save Content' being destroyed
+[2021.06.20-23.32.35:271][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.20-23.32.38:065][ 43]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Barcelona_PostApocalyptic_Auto1AA2C1E86431EA1288A61BB89AD18EBBE.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Autosaves/Game/FirstPersonBP/Maps/Barcelona_PostApocalyptic_Auto1.umap'
+[2021.06.20-23.32.38:194][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Barcelona_PostApocalyptic' took 2.933
+[2021.06.20-23.32.38:194][ 43]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.933
+[2021.06.20-23.34.04:047][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DualPanel_SM_MetroFrameLong001)
+[2021.06.20-23.34.04:780][353]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_DualPanel_Plane001)
+[2021.06.20-23.34.05:954][377]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.20-23.34.17:111][610]LogEditorFactories: Performing atomic reimport of [C:/Users/Usuario/Downloads/SM_DualPanel_Fondo_BaseColor.png]
+[2021.06.20-23.34.17:117][610]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Usuario/Downloads/SM_DualPanel_Fondo_BaseColor.png)
+[2021.06.20-23.34.17:248][610]LogTexture: Display: Building textures: SM_DualPanel_Fondo_BaseColor (AutoDXT, 2048X2048)
+[2021.06.20-23.34.17:409][610]LogEditorFactories: -- imported successfully
+[2021.06.20-23.34.37:907][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.20-23.34.40:350][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MetroSeparadorExit00)
+[2021.06.20-23.34.49:745][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.20-23.34.52:638][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MetroSeparadorExit8)
+[2021.06.20-23.35.29:842][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.20-23.35.31:371][345]Cmd: DELETE
+[2021.06.20-23.35.31:377][345]Cmd: ACTOR DELETE
+[2021.06.20-23.35.31:867][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.20-23.35.31:880][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.06.20-23.35.31:883][345]LogEditorActor: Deleted 1 Actors (0.287 secs)
+[2021.06.20-23.35.32:711][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.06.20-23.35.32:867][366]Cmd: DELETE
+[2021.06.20-23.35.32:867][366]Cmd: ACTOR DELETE
+[2021.06.20-23.35.32:916][366]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.20-23.35.32:926][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.06.20-23.35.32:927][366]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2021.06.20-23.35.35:987][438]Cmd: TRANSACTION UNDO
+[2021.06.20-23.35.35:987][438]LogEditorTransaction: Undo Delete Actors
+[2021.06.20-23.35.36:479][445]Cmd: TRANSACTION UNDO
+[2021.06.20-23.35.36:479][445]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.20-23.35.38:045][480]Cmd: TRANSACTION UNDO
+[2021.06.20-23.35.38:045][480]LogEditorTransaction: Undo Delete Actors
+[2021.06.20-23.35.40:865][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MetroSeparadorExit8)
+[2021.06.20-23.35.46:432][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.06.20-23.35.47:484][659]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2021.06.20-23.36.17:571][324]Cmd: DELETE
+[2021.06.20-23.36.17:571][324]Cmd: ACTOR DELETE
+[2021.06.20-23.36.18:159][324]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.20-23.36.18:160][324]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.20-23.36.18:170][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.06.20-23.36.18:172][324]LogEditorActor: Deleted 2 Actors (0.601 secs)
+[2021.06.20-23.36.27:155][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MapPanel_Plane006)
+[2021.06.20-23.36.32:520][718]Cmd: TRANSACTION UNDO
+[2021.06.20-23.36.32:520][718]LogEditorTransaction: Undo Scale Actors
+[2021.06.20-23.36.35:182][779]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_MapPanel_SM_MetroFrameLong002)
+[2021.06.20-23.36.58:341][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ScanTiquetMachine)
+[2021.06.20-23.37.10:641][691]Cmd: TRANSACTION UNDO
+[2021.06.20-23.37.10:641][691]LogEditorTransaction: Undo Set Scale
+[2021.06.20-23.37.30:345][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ScanTiquetMachine2)
+[2021.06.20-23.37.49:695][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TiquetsScan_v2)
+[2021.06.20-23.38.13:789][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Massive_Nordic_Coastal_Cliff_LOD0_venrdcgga9)
+[2021.06.20-23.38.30:581][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MetroGeoBlockTest_Box029)
+[2021.06.20-23.38.37:776][899]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (MetroGeoBlockTest_Box029)
+[2021.06.20-23.39.10:185][219]LogSlate: Window 'FBX Export Options' being destroyed
+[2021.06.20-23.39.10:226][219]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2021.06.20-23.40.09:197][393]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (a_display_LOW003)
+[2021.06.20-23.40.12:184][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pirozhok_low)
+[2021.06.20-23.40.20:436][679]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (a_display_LOW003)
+[2021.06.20-23.40.46:811][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pirozhok_low)
+[2021.06.20-23.40.56:688][928]Cmd: MODE ROTGRID=0
+[2021.06.20-23.41.30:881][342]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2021.06.20-23.41.46:103][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (maps2tfg6)
+[2021.06.20-23.41.47:322][111]Cmd: DELETE
+[2021.06.20-23.41.47:322][111]Cmd: ACTOR DELETE
+[2021.06.20-23.41.47:593][111]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.20-23.41.47:606][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.06.20-23.41.47:610][111]LogEditorActor: Deleted 1 Actors (0.288 secs)
+[2021.06.20-23.42.22:736][ 57]Cmd: DELETE
+[2021.06.20-23.42.22:736][ 57]Cmd: ACTOR DELETE
+[2021.06.20-23.42.22:788][ 57]LogEditorActor: Deleted Actor: Brush
+[2021.06.20-23.42.22:813][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.06.20-23.42.22:913][ 57]LogEditorActor: Deleted 1 Actors (0.178 secs)
+[2021.06.20-23.42.23:749][ 72]Cmd: DELETE
+[2021.06.20-23.42.23:750][ 72]Cmd: ACTOR DELETE
+[2021.06.20-23.42.24:001][ 72]LogEditorActor: Deleted Actor: Brush
+[2021.06.20-23.42.24:013][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.06.20-23.42.24:024][ 72]LogEditorActor: Deleted 1 Actors (0.275 secs)
+[2021.06.20-23.42.24:523][ 81]Cmd: DELETE
+[2021.06.20-23.42.24:523][ 81]Cmd: ACTOR DELETE
+[2021.06.20-23.42.24:773][ 81]LogEditorActor: Deleted Actor: Brush
+[2021.06.20-23.42.24:784][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.06.20-23.42.24:795][ 81]LogEditorActor: Deleted 1 Actors (0.272 secs)
+[2021.06.20-23.42.55:762][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.06.20-23.42.57:974][819]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Barcelona_PostApocalypticAAF0237A445DEB7EE913B8B53B182F11.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/FirstPersonBP/Maps/Barcelona_PostApocalyptic.umap'
+[2021.06.20-23.43.38:506][819]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Barcelona_PostApocalyptic_BuiltD55B0EBB646526271278E8DBCBEDAF501.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/FirstPersonBP/Maps/Barcelona_PostApocalyptic_BuiltData.uasset'
+[2021.06.20-23.43.41:556][819]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.20-23.43.41:559][819]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Barcelona_PostApocalyptic_BuiltData.Barcelona_PostApocalyptic_BuiltData
+[2021.06.20-23.43.41:569][819]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Barcelona_PostApocalyptic.Barcelona_PostApocalyptic
+[2021.06.20-23.43.47:067][862]LogUObjectHash: Compacting FUObjectHashTables data took  11.12ms
+[2021.06.20-23.43.47:517][862]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Metroo_Auto2410C70D9470E7ED038754D8347D7CA32.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Autosaves/Game/FirstPersonBP/Maps/Metroo_Auto2.umap'
+[2021.06.20-23.43.47:818][862]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Playground__Auto2B794AA8F4E9C1D8A42760F8F11049CCF.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Autosaves/Game/FirstPersonBP/Maps/Playground__Auto2.umap'
+[2021.06.20-23.43.48:137][862]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Building__Auto27849013A4B8135CC1F07A6B55865E015.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Autosaves/Game/FirstPersonBP/Maps/Building__Auto2.umap'
+[2021.06.20-23.43.48:139][862]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Barcelona_PostApocalyptic' took 1.976
+[2021.06.20-23.43.48:139][862]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.976
+[2021.06.20-23.43.48:142][862]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/BSP/Textures/MetroPosters_Texture/SM_DualPanel_Fondo_BaseColor] ([1] browsable assets)...
+[2021.06.20-23.43.48:344][862]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/BSP/Textures/MetroPosters_Texture/SM_DualPanel_Fondo_BaseColor.SM_DualPanel_Fondo_BaseColor]
+[2021.06.20-23.43.48:344][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/BSP/Textures/MetroPosters_Texture/SM_DualPanel_Fondo_BaseColor]
+[2021.06.20-23.43.48:484][862]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/SM_DualPanel_Fondo_BaseColor_Aut50AD82B84525E2662C170CB5B9274CF1.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Autosaves/Game/Assets/BSP/Textures/MetroPosters_Texture/SM_DualPanel_Fondo_BaseColor_Auto2.uasset'
+[2021.06.20-23.43.48:486][862]LogFileHelpers: Auto-saving content packages took 0.347
+[2021.06.20-23.43.52:513][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.06.20-23.43.54:387][973]LogSlate: Window 'Save Content' being destroyed
+[2021.06.20-23.43.54:444][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.06.20-23.43.54:760][973]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Building_D92D48DD4E9CB8A4F0F9C1AA60A569D7.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/FirstPersonBP/Maps/Building_.umap'
+[2021.06.20-23.43.54:836][973]LogFileHelpers: Saving map 'Building_' took 0.393
+[2021.06.20-23.43.54:847][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.06.20-23.43.55:027][973]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/MetrooC7EAB9144D22B3DF276BD891EEE9B579.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/FirstPersonBP/Maps/Metroo.umap'
+[2021.06.20-23.43.55:028][973]LogFileHelpers: Saving map 'Metroo' took 0.192
+[2021.06.20-23.43.55:038][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.06.20-23.43.55:145][973]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/Playground_2AD8DCBB4BD73C58C97DBEA7A526F935.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/FirstPersonBP/Maps/Playground_.umap'
+[2021.06.20-23.43.55:146][973]LogFileHelpers: Saving map 'Playground_' took 0.119
+[2021.06.20-23.43.55:268][973]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Saved/SM_DualPanel_Fondo_BaseColor2F56181E47215F1A15A819AF246CA783.tmp' to 'C:/Users/Usuario/OneDrive/Documentos/GitHub/PostApocalypticBCN/BCN_Apocalypse/Content/Assets/BSP/Textures/MetroPosters_Texture/SM_DualPanel_Fondo_BaseColor.uasset'
+[2021.06.20-23.43.55:473][973]LogSlate: Window 'BCN_Apocalypse - Unreal Editor' being destroyed
+[2021.06.20-23.43.55:475][973]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.20-23.43.57:153][973]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.20-23.43.57:153][973]LogContentValidation: Display: Validating Texture2D /Game/Assets/BSP/Textures/MetroPosters_Texture/SM_DualPanel_Fondo_BaseColor.SM_DualPanel_Fondo_BaseColor
+[2021.06.20-23.43.57:153][973]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Metroo.Metroo
+[2021.06.20-23.43.57:153][973]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Playground_.Playground_
+[2021.06.20-23.43.57:153][973]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Building_.Building_
+[2021.06.20-23.43.57:186][974]Cmd: QUIT_EDITOR
+[2021.06.20-23.43.57:207][974]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.20-23.43.57:313][974]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.20-23.43.58:139][974]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.06.20-23.43.58:148][974]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.06.20-23.43.58:149][974]LogAudio: Display: Audio Device unregistered from world 'Barcelona_PostApocalyptic'.
+[2021.06.20-23.43.58:301][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.20-23.43.58:307][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.20-23.43.58:413][974]LogAudio: Display: Audio Device Manager Shutdown
+[2021.06.20-23.43.58:501][974]LogExit: Preparing to exit.
+[2021.06.20-23.43.58:800][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD23200] Windows
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD22F00] Default__DeviceProfile
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD10F00] WindowsNoEditor
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD21000] WindowsServer
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD12D00] WindowsClient
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD22C00] IOS
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD11600] iPadAir
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD21600] iPadAir2
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACC0A00] IPadPro
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACC0B00] iPadAir3
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD23300] iPadAir4
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACC3400] iPadMini2
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD23000] iPadMini3
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACC3B00] iPadMini4
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD20300] iPadMini5
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD12700] iPhone6
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB3F00] iPodTouch6
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD11000] iPhone7
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD13300] iPodTouch7
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1500] iPhone5S
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD11C00] iPhone6Plus
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1000] iPhone6S
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD11900] iPhone6SPlus
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1300] iPhone7Plus
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD11300] iPhoneSE
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB2500] iPhone8
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD12200] iPhone8Plus
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1900] iPhoneX
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD11B00] iPhoneXS
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB2200] iPhoneXSMax
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD12A00] iPhoneXR
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1A00] iPhone11
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD10300] iPhone11Pro
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1F00] iPhone11ProMax
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD11100] iPhoneSE2
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB3C00] iPhone12Mini
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD13B00] iPhone12
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB3600] iPhone12Pro
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD11200] iPhone12ProMax
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB3700] iPadPro105
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD12E00] iPadPro129
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB2400] iPadPro97
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD13C00] iPadPro2_129
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB3200] iPad5
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD10500] iPad6
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB0700] iPad7
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD13400] iPad8
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB3E00] iPadPro11
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD13D00] iPadPro2_11
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB2F00] iPadPro3_129
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD10900] iPadPro4_129
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB3500] AppleTV
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD11E00] AppleTV4K
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB2A00] TVOS
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD11700] Mac
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB0B00] MacClient
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD12800] MacNoEditor
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ADF8200] MacServer
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD20F00] Linux
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ADF8100] LinuxNoEditor
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD23A00] LinuxAArch64NoEditor
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ADF8C00] LinuxClient
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD22500] LinuxAArch64Client
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ADF8700] LinuxServer
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD22000] LinuxAArch64Server
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB2800] Android
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD21900] Android_Low
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB0900] Android_Mid
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD20800] Android_High
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB2D00] Android_Default
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD23F00] Android_Adreno4xx
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB0200] Android_Adreno5xx_Low
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD21A00] Android_Adreno5xx
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1100] Android_Adreno6xx
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD21100] Android_Adreno6xx_Vulkan
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB0600] Android_Mali_T6xx
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD21800] Android_Mali_T7xx
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB2600] Android_Mali_T8xx
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD20500] Android_Mali_G71
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1700] Android_Mali_G72
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD23100] Android_Mali_G72_Vulkan
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1D00] Android_Mali_G76
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD20600] Android_Mali_G76_Vulkan
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB2C00] Android_Mali_G77
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952AD22200] Android_Mali_G77_Vulkan
+[2021.06.20-23.43.59:173][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB2900] Android_Vulkan_SM5
+[2021.06.20-23.43.59:174][974]LogDeviceProfile: Device profile begin destroy: [000002952AD20C00] Android_PowerVR_G6xxx
+[2021.06.20-23.43.59:174][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB0E00] Android_PowerVR_GT7xxx
+[2021.06.20-23.43.59:174][974]LogDeviceProfile: Device profile begin destroy: [000002952AD21200] Android_PowerVR_GE8xxx
+[2021.06.20-23.43.59:174][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1E00] Android_PowerVR_GM9xxx
+[2021.06.20-23.43.59:174][974]LogDeviceProfile: Device profile begin destroy: [000002952AD23D00] Android_PowerVR_GM9xxx_Vulkan
+[2021.06.20-23.43.59:174][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB1C00] Android_TegraK1
+[2021.06.20-23.43.59:174][974]LogDeviceProfile: Device profile begin destroy: [000002952AD23700] Android_Unknown_Vulkan
+[2021.06.20-23.43.59:174][974]LogDeviceProfile: Device profile begin destroy: [000002952ACB0C00] Lumin
+[2021.06.20-23.43.59:174][974]LogDeviceProfile: Device profile begin destroy: [000002952AD22400] Lumin_Desktop
+[2021.06.20-23.43.59:174][974]LogDeviceProfile: Device profile begin destroy: [000002952AD10400] HoloLens
+[2021.06.20-23.44.00:528][974]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.44.00:634][974]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.44.00:635][974]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.44.01:652][974]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.20-23.44.02:339][974]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.44.02:668][974]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.44.02:668][974]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.44.02:668][974]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.44.02:668][974]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.44.02:668][974]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.44.02:668][974]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.20-23.44.02:701][974]LogExit: Editor shut down
+[2021.06.20-23.44.02:719][974]LogExit: Transaction tracking system shut down
